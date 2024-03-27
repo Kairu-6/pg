@@ -1,3 +1,2 @@
 Telethon
 requests
-sqlite3
